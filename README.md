@@ -44,8 +44,7 @@ This project is built using **Laravel**, styled with **Bootstrap**, and enhanced
    DB_USERNAME=your_username  
    DB_PASSWORD=your_password
 
-7. (If necessary) Run migrations:  
-   `php artisan migrate`
+
 
 8. Start the Laravel development server:  
    `php artisan serve`  

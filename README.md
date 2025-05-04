@@ -18,6 +18,8 @@ This project is built using **Laravel**, styled with **Bootstrap**, and enhanced
 │   └── task_ans.pdf           # PDF document with task answers
 
 
-
+Admin Dashboard URL: http://localhost:8000/login
+UserId: admin
+password:123456
 
 
